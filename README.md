@@ -68,7 +68,7 @@ Handles obstacle generation and movement.
 |Enter |Start  |Game	Enables bird physics (update_on = True)    |
 |Space |Flap	 |Applies upward velocity impulse                  |
 |Mouse |Click	 |Restart	Resets score, pipes, and bird state      |
-|Close |Window |Exit Game	Safely quits Pygame and system process |
+|Close |Window Exit| Game	Safely quits Pygame and system process |
 
 
 ## Get started
