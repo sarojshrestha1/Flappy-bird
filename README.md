@@ -64,6 +64,7 @@ Handles obstacle generation and movement.
 
 ## Controls & Input Handling
 |Key	 |Action |Internal Logic                                   |
+|------|-------|-------------------------------------------------|
 |Enter |Start  |Game	Enables bird physics (update_on = True)    |
 |Space |Flap	 |Applies upward velocity impulse                  |
 |Mouse |Click	 |Restart	Resets score, pipes, and bird state      |
