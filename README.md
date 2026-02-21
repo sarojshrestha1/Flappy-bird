@@ -1,2 +1,18 @@
-# Flappy-bird
-Flappy Bird is a simple but highly addictive 2D arcade-style game where the player controls a small bird that must fly through gaps between vertically placed pipes without crashing.
+#Flappy Bird Clone
+A simple Flappy Bird clone built using Python and Pygame.
+This project demonstrates sprite animation, gravity physics, collision detection, pipe generation, and score tracking using delta time (dt) for smooth gameplay.
+
+##Features
+-Smooth bird movement using delta time
+-Animated bird (wing up / wing down)
+-Infinite scrolling ground
+-Random pipe generation
+-Collision detection (pipes & ground)
+-Score tracking system
+-Restart button after game over
+-FPS control using pygame.time.Clock()
+
+##Built With
+-Python 3.x
+-Pygame
+
