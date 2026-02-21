@@ -59,8 +59,8 @@ Handles obstacle generation and movement.
 - Automatic removal when off-screen
 
 ### Collision System:
--Rectangle-based collision detection
--Checks both upper and lower pipe segments
+- Rectangle-based collision detection
+- Checks both upper and lower pipe segments
 
 ## Controls & Input Handling
 |Key	 |Action |Internal Logic                                   |
