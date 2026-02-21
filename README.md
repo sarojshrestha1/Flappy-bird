@@ -26,7 +26,7 @@ The project is divided into modular components for clean separation of responsib
 - Coordinates bird, pipes, and ground movement
 - Implements scoring and collision detection
 
-###Core Systems:
+### Core Systems:
 - Event handling
 - Frame-rate control using pygame.time.Clock()
 - Game restart system
