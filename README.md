@@ -70,3 +70,21 @@ Handles obstacle generation and movement.
 |Mouse |Click	 |Restart	Resets score, pipes, and bird state      |
 |Close |Window |Exit Game	Safely quits Pygame and system process |
 
+
+## Get started
+
+### Prerequisites
+-Python 3.x
+-Pygame library
+
+### Installation
+#### Clone the repository:
+ ```bash
+ git clone https://github.com/yourusername/pygame-flappy-bird.git
+ cd pygame-flappy-bird
+
+#### Running Game
+```bash
+pygame main.py
+
+
