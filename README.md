@@ -74,8 +74,8 @@ Handles obstacle generation and movement.
 ## Get started
 
 ### Prerequisites
--Python 3.x
--Pygame library
+- Python 3.x
+- Pygame library
 
 ### Installation
 #### Clone the repository:
