@@ -82,7 +82,7 @@ Handles obstacle generation and movement.
  ```bash
  git clone https://github.com/yourusername/pygame-flappy-bird.git
  cd pygame-flappy-bird
-
+```
 #### Running Game
 ```bash
 pygame main.py
